@@ -1,6 +1,6 @@
 # UGATIT-PyTorch-GPUs
 
-UGATIT with multi gpus support
+UGATIT with multi gpus support, each generate network runs on separate GPU.
 
 ****! Becaful, this version has not been optimized, so the training speed could be slow down(about 50%)!****
 
