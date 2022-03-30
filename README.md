@@ -2,13 +2,14 @@
 
 UGATIT with multi gpus support
 
-! Becaful, this version has not been optimized, so the training speed could be slow down(about 50%)!
+****! Becaful, this version has not been optimized, so the training speed could be slow down(about 50%)!****
 
 ## Update
 ### 2022-03-30
 - multi gpu support
 - mixed precision
 
+---
 
 ### Overview
 
